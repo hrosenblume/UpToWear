@@ -612,17 +612,19 @@ containing a value of this type.
         public static final int ic_full_cancel=0x7f020073;
         public static final int ic_full_sad=0x7f020074;
         public static final int ic_launcher=0x7f020075;
-        public static final int ic_plusone_medium_off_client=0x7f020076;
-        public static final int ic_plusone_small_off_client=0x7f020077;
-        public static final int ic_plusone_standard_off_client=0x7f020078;
-        public static final int ic_plusone_tall_off_client=0x7f020079;
-        public static final int powered_by_google_dark=0x7f02007a;
-        public static final int powered_by_google_light=0x7f02007b;
-        public static final int wl_circle=0x7f02007c;
+        public static final int ic_launcher_3=0x7f020076;
+        public static final int ic_plusone_medium_off_client=0x7f020077;
+        public static final int ic_plusone_small_off_client=0x7f020078;
+        public static final int ic_plusone_standard_off_client=0x7f020079;
+        public static final int ic_plusone_tall_off_client=0x7f02007a;
+        public static final int powered_by_google_dark=0x7f02007b;
+        public static final int powered_by_google_light=0x7f02007c;
+        public static final int upto_logo_blue=0x7f02007d;
+        public static final int wl_circle=0x7f02007e;
     }
     public static final class id {
         public static final int action_error=0x7f07001a;
-        public static final int action_settings=0x7f070025;
+        public static final int action_settings=0x7f070027;
         public static final int action_success=0x7f07001c;
         public static final int all=0x7f070018;
         public static final int animation=0x7f07001d;
@@ -631,7 +633,7 @@ containing a value of this type.
         public static final int buyButton=0x7f07000a;
         public static final int buy_now=0x7f07000f;
         public static final int buy_with_google=0x7f07000e;
-        public static final int circle=0x7f070021;
+        public static final int circle=0x7f070022;
         public static final int classic=0x7f070011;
         public static final int dismiss_overlay_button=0x7f070020;
         public static final int dismiss_overlay_explain=0x7f07001f;
@@ -640,12 +642,13 @@ containing a value of this type.
         public static final int holo_dark=0x7f070005;
         public static final int holo_light=0x7f070006;
         public static final int hybrid=0x7f070004;
+        public static final int imageview=0x7f070025;
         public static final int left=0x7f070014;
         public static final int list=0x7f070019;
         public static final int match_parent=0x7f07000c;
         public static final int message=0x7f07001e;
         public static final int monochrome=0x7f070013;
-        public static final int name=0x7f070022;
+        public static final int name=0x7f070023;
         public static final int none=0x7f070000;
         public static final int normal=0x7f070001;
         public static final int production=0x7f070007;
@@ -655,9 +658,10 @@ containing a value of this type.
         public static final int selectionDetails=0x7f07000b;
         public static final int strict_sandbox=0x7f070009;
         public static final int terrain=0x7f070003;
-        public static final int text=0x7f070023;
-        public static final int title=0x7f070024;
+        public static final int text=0x7f070024;
+        public static final int title=0x7f070026;
         public static final int top=0x7f070015;
+        public static final int uptoview=0x7f070021;
         public static final int wrap_content=0x7f07000d;
     }
     public static final class integer {
@@ -672,7 +676,8 @@ containing a value of this type.
         public static final int list_item=0x7f030004;
         public static final int rect=0x7f030005;
         public static final int round=0x7f030006;
-        public static final int watch_card_content=0x7f030007;
+        public static final int upto_item=0x7f030007;
+        public static final int watch_card_content=0x7f030008;
     }
     public static final class menu {
         public static final int schedule_event=0x7f0a0000;
